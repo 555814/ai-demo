@@ -1,0 +1,12 @@
+{
+  "demo": {
+    "password": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "role": "产品经理",
+    "created_at": "2025-01-01 00:00"
+  },
+  "即刻师大即刻": {
+    "password": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+    "role": "审核员",
+    "created_at": "2026-03-15 21:42"
+  }
+}
